@@ -10,6 +10,7 @@ This is likely not the most efficient way to do it, since `jq` has to parse thro
 something like this already exists, however I feel like there is a lot of potential for this tool.
 
 ### Dependencies
+* [**`aws/aws-cli`**](https://github.com/aws/aws-cli) - unified command line interface to Amazon Web Services.
 * [**`jq`**](https://stedolan.github.io/jq/) - lightweight and flexible command-line JSON processor.
 
 
