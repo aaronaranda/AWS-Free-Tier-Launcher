@@ -10,7 +10,7 @@ This is likely not the most efficient way to do it, since `jq` has to parse thro
 something like this already exists, however I feel like there a lot of potential for this tool.
 
 ### Dependencies
-* [**`jq`**][https://stedolan.github.io/jq/] - lightweight and flexible command-line JSON processor.
+* [**`jq`**](https://stedolan.github.io/jq/) - lightweight and flexible command-line JSON processor.
 
 
 
