@@ -7,7 +7,7 @@ it easier to launch a free tier EC2 since I had to do it so frequently. Also I j
 to mess with the CLI. 
 
 This is likely not the most efficient way to do it, since `jq` has to parse through so much JSON, and I'm sure
-something like this already exists, however I feel like there a lot of potential for this tool.
+something like this already exists, however I feel like there is a lot of potential for this tool.
 
 ### Dependencies
 * [**`jq`**](https://stedolan.github.io/jq/) - lightweight and flexible command-line JSON processor.
